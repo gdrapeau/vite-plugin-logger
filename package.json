@@ -1,0 +1,17 @@
+{
+    "name": "vite-plugin-logger",
+    "version": "1.0.1",
+    "description": "Coffeescript plugin for Vite that logs file being processed",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/gdrapeau/vite-plugin-logger.git"
+    },
+    "keywords": [
+      "vite logger logging"
+    ],
+    "author": "gdrapeau",
+    "license": "MIT",
+    "homepage": "https://github.com/gdrapeau/vite-plugin-logger.git#readme",
+    "type": "module"
+  }
